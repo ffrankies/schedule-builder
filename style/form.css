@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: none;
+}
+fieldset {
+    width: 70%;
+    margin: 5% auto 5% auto;
+    border: 2px solid #5F2100;
+    /*background-color: #FFEE99; /*Lightest orange*/
+    /*background-color: #FF7733;*/
+    border-bottom-right-radius: 10%;
+}
+#header {
+    background-color: #FF7733;
+    width: 100%;
+}
+h1 {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: none;
+    display: inline-block;
+    font-size: 3.5em;
+    text-align: center;
+    padding-top: 2%;
+    text-shadow: 0px 3px #C24400;
+}
+h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+    color: #C24400; /*Dark orange*/
+    margin: 0px auto 2% auto;
+    border-bottom: 2px solid #5F2100; /*Darkest orange*/
+    background-color: #FF7733; /*Medium orange*/
+    box-shadow: 0px 3px 3px #5F2100;
+}
+p {
+    width: 80%;
+    margin: 2% auto 2% auto;
+    color: #C24400;
+    font-size: 1.8em;
+    text-align: center;
+    font-weight: bold;
+    /*text-shadow: 0px 3px 2px #FF7733;*/
+}
+input {
+    width: 90%;
+    margin: 0% auto 0% auto;
+    color: #5F2100;
+    text-align: center;
+    font-size: 1em;
+    background-color: white;
+    border: none;
+    border-bottom: 2px solid #5F2100;
+    /*box-shadow: 0px 3px 3px #5F2100;*/
+}
+input[type="submit"] {
+    font-weight: bold;
+    margin-top: 1%;
+    padding: 1%;
+    width: 58.75%;
+    border: none;
+    background-color: #FF7733;
+    color: #5F2100;
+    font-size: 1em;
+    /*box-shadow: 0px 5px 10px #C24400;*/
+}
+#button {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 1.8em;
+    text-align: center;
+    padding: 1%;
+    width: 45%;
+    border: none;
+    background-color: #FF7733;
+    color: #5F2100;
+    margin: 0% auto 5% auto;
+    /*box-shadow: 0px 5px 10px #C24400;*/
+}
+input[type="submit"]:hover, #button:hover {
+    background-color: #FF894A;
+}
+input[type="submit"]:active, #button:active {
+    background-color: #FFEE99;
+}
+a, a:visited, a:link, a:hover, a:active {
+    text-decoration: none;
+}
+.error, #nomatcher {
+    background-color: #C50000;
+    color: white;
+}
+.error {
+    display: none;
+}

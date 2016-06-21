@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    /*background: linear-gradient(to bottom right, red, yellow);
+    background-color: #FF894A;*/
+    color: #5F2100;
+}
+#header {
+    background-color: #FF7733;
+    width: 100%;
+}
+h1 {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: none;
+    display: inline-block;
+    font-size: 3.5em;
+    text-align: center;
+    padding-top: 2%;
+    text-shadow: 0px 3px #C24400;
+}
+h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+    color: #C24400; /*Dark orange*/
+    margin: 0px auto 2% auto;
+    border-bottom: 2px solid #5F2100; /*Darkest orange*/
+    background-color: #FF7733; /*Medium orange*/
+    box-shadow: 0px 3px 3px #5F2100;
+}
+#schedules {
+    width: 100%;
+}
+.schedule {
+    text-align: center;
+    float: left;
+    width: 48%;
+    margin: 1%;
+    /*height: 400px;*/
+}
+table:hover {
+    background-color: #FFBB77;
+}
+table:active {
+    background-color: #FFEE99;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid #5F2100;
+    margin: 1%;
+    width: 98%;
+}
+th {
+    border: 1px solid #5f2100;
+}
+.occupied {
+    background-color: #FF7733;
+}a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: #5F2100;
+}
+.delete {
+    width: 50%;
+    background-color: #FF7733;
+    padding: 1%;
+    font-size: 1.2em;
+    margin: 1% auto 1% auto;
+    text-align: center;
+}
+.link {
+    clear: both;
+    padding: 1%;
+    background-color: #FF7733;
+    font-size: 1.5em;
+    text-align: center;
+    width: 50%;
+    margin: 1% auto 1% auto;
+}
+.link:hover, .delete:hover {
+    background-color: #FF894A;
+}
+.link:active, .delete:active {
+    background-color: #FFEE99;
+}

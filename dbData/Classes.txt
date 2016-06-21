@@ -1,0 +1,36 @@
+CIS,101,Intro to JAVA,3
+CIS,102,Object Oriented Programming,3
+CIS,201,Data Algorithms,4
+CIS,202,Computer Architecture,4
+CIS,301,Web Applications,3
+CIS,302,Data Communications,3
+MTH,101,Algebra I,2
+MTH,102,Algebra II,3
+MTH,201,Calc I,3
+MTH,202,Calc II,3
+MTH,301,Calc III,3
+MTH,302,Linear Algebra,3
+ENG,101,Intro to Writing,3
+ENG,102,Basic Grammar,2
+ENG,201,Intro to Shakespeare,3
+ENG,202,Creative Writing,4
+ENG,301,Advanced Grammar,3
+ENG,302,Writing Professionally,4
+ECO,101,Intro to Microeconomics,3
+ECO,102,Intro to Macroeconomics,3
+ECO,201,Intermediate Microeconomics,3
+ECO,202,Intermediate Macroeconomics,3
+ECO,301,Advanced Macroeconomics,3
+ECO,302,Economics Project,5
+ITA,101,Introductory Italian,1
+ITA,102,Introductory Grammar,3
+ITA,201,Listening Comprehension,4
+ITA,202,Intro to Writing,4
+ITA,301,Italian Literature,3
+ITA,302,Advanced Speaking,3
+PHY,101,Introductory Physics,2
+PHY,102,Particles in Motion,3
+PHY,201,Waves,3
+PHY,202,Electricity,4
+PHY,301,Magnetism,4
+PHY,302,Physics Lab,5

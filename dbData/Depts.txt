@@ -1,0 +1,6 @@
+1,Computer Science,CIS,0
+2,Mathematics,MTH,0
+3,English,ENG,0
+4,Economics,ECO,0
+5,Italian,ITA,0
+6,Physics,PHY,0
